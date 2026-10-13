@@ -1,0 +1,12 @@
+{
+  "id": "BossHistory",
+  "name": "Boss History",
+  "display_name": "Boss History",
+  "author": ["Sylvain Hamel"],
+  "description": "Press O during a run to see the boss blinds you've faced this run, ante by ante: what they did, your score vs the target, hands used, and the boss coming up next.",
+  "prefix": "bh",
+  "main_file": "main.lua",
+  "priority": 0,
+  "version": "0.1.0",
+  "dependencies": ["Steamodded"]
+}
